@@ -1,6 +1,6 @@
 # vulnbins
 
-These binaries are binary exploitation practice. If you are interested in the solutions you can DM me on discord.
+These binaries are for binary exploitation practice. If you are interested in the solutions you can DM me on discord.
 
 ## Win10x86
 
